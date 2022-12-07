@@ -22,7 +22,7 @@ Researched answer:Git is a tool used as a revision control system that can be us
 
 Your answer: logical operators since the conditions are based off booleans, with each respective answer will return a different output. 
 
-<!-- Researched answer:   -->
+Researched answer: the logical operators that will return a boolean value will be the && operator or logical and which requires both operands to be true to evaluate the condition as true. The || operator requires one of the operands to be true in order to evaluate the condition as true the final logical operator is the bang (!) which returns the opposite of the value for example value != 0 returns for any value not equal to 0. 
 
 3. What is an index? What is the difference between index and value?
 
